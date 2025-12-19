@@ -1,4 +1,4 @@
-# 🧬 Cancer Gene Expression Classification
+# 🧬 Cancer Gene Expression Classification 🧬
 
 A machine learning project that classifies 5 different cancer types based on gene expression data with **99.38% accuracy**.
 
@@ -16,7 +16,6 @@ A machine learning project that classifies 5 different cancer types based on gen
 - [Key Findings](#key-findings)
 - [Technologies Used](#technologies-used)
 - [Installation & Usage](#installation--usage)
-- [Project Structure](#project-structure)
 - [Future Improvements](#future-improvements)
 
 ---
@@ -155,7 +154,6 @@ pip install -r requirements.txt
 ```bash
    jupyter notebook notebooks/cancer_analysis.ipynb
 ```
-
 
 ---
 
