@@ -11,7 +11,7 @@ This folder contains the gene expression dataset used for cancer classification.
 The dataset is sourced from **TCGA (The Cancer Genome Atlas)** via Kaggle.
 
 **To run this project:**
-1. Download the dataset from Kaggle: [Insert your specific Kaggle dataset link here]
+1. Download the dataset from Kaggle: https://www.kaggle.com/datasets/waalbannyantudre/gene-expression-cancer-rna-seq-donated-on-682016
 2. Extract the files
 3. Place `data.csv` and `labels.csv` in this directory
 4. Run the Jupyter notebook in `notebooks/cancer_analysis.ipynb`
