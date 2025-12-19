@@ -156,30 +156,6 @@ pip install -r requirements.txt
    jupyter notebook notebooks/cancer_analysis.ipynb
 ```
 
----
-
-## Project Structure
-```
-cancer-gene-expression-classification/
-│
-├── data/                          # Dataset folder (files not included)
-│   └── README.md                  # Data download instructions
-│
-├── notebooks/                     # Jupyter notebooks
-│   └── cancer_analysis.ipynb      # Main analysis notebook
-│
-├── images/                        # Visualizations and plots
-│   ├── cancer_distribution.png
-│   ├── gene_variance.png
-│   ├── gene_heatmap.png
-│   ├── confusion_matrix_logistic.png
-│   ├── model_comparison.png
-│   └── biomarker_genes.png
-│
-├── requirements.txt               # Python dependencies
-├── .gitignore                     # Git ignore rules
-└── README.md                      # Project documentation
-```
 
 ---
 
