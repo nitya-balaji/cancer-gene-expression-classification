@@ -8,18 +8,6 @@ A machine learning project that classifies 5 different cancer types based on gen
 
 ---
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Key Findings](#key-findings)
-- [Technologies Used](#technologies-used)
-- [Installation & Usage](#installation--usage)
-- [Future Improvements](#future-improvements)
-
----
-
 ## Project Overview
 
 This project demonstrates the application of machine learning to bioinformatics by building classification models that distinguish between 5 different cancer types using RNA-seq gene expression data:
