@@ -1,0 +1,23 @@
+#python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+#jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+#data files (optional - if CSV files are very large)
+data/*.csv
+
+#OS files
+.DS_Store
+Thumbs.db
+
+#IDE
+.vscode/
+.idea/
