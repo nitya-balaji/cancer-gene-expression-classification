@@ -16,5 +16,5 @@ The dataset is sourced from **TCGA (The Cancer Genome Atlas)** via Kaggle.
 3. Place `data.csv` and `labels.csv` in this directory
 4. Run the Jupyter notebook in `notebooks/cancer_analysis.ipynb`
 
-## Note
+**Please Note:** 
 Due to GitHub's file size limitations (data.csv > 100MB), the raw data files are not included in this repository.
