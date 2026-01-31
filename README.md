@@ -1,7 +1,7 @@
-# Cancer Gene Expression Classification
-
+## Cancer Gene Expression Classification
 
 This is a machine learning project that classifies 5 different cancer types based on gene expression data with **99.38% accuracy**.
+
 ---
 
 ## Project Overview
