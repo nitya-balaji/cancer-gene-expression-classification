@@ -1,8 +1,6 @@
-## Cancer Gene Expression Classification
+# Cancer Gene Expression Classification
 
 This is a machine learning project that classifies 5 different cancer types based on gene expression data with **99.38% accuracy**.
-
----
 
 ## Project Overview
 
@@ -16,8 +14,6 @@ This project demonstrates the application of machine learning to bioinformatics 
 
 The goal is to identify cancer types based on their unique gene expression signatures, which has real-world applications in cancer diagnosis and personalized medicine.
 
----
-
 ## Dataset
 
 - **Source**: TCGA (The Cancer Genome Atlas) via Kaggle
@@ -28,7 +24,6 @@ The goal is to identify cancer types based on their unique gene expression signa
 
 **Note**: Due to file size constraints, the raw data files are not included in this repository. Please download the dataset from Kaggle and place it in the `data/` folder.
 
----
 
 ## Methodology
 
@@ -53,8 +48,6 @@ The goal is to identify cancer types based on their unique gene expression signa
    - Logistic Regression
    - Random Forest Classifier
    - Support Vector Machine (SVM)
-
----
 
 ## Results
 
@@ -82,7 +75,6 @@ The goal is to identify cancer types based on their unique gene expression signa
 
 ![Confusion Matrix](images/confusion_matrix_logistic.png)
 
----
 
 ## Key Findings
 
@@ -103,9 +95,7 @@ Each cancer type exhibits unique gene expression patterns, making classification
 - Feature selection dramatically improved computational efficiency without sacrificing accuracy
 - Main classification challenge: Distinguishing LUAD from BRCA (1 misclassification)
 
----
-
-## Technologies Used
+## Tools Used
 
 - **Python 3.10**
 - **pandas** - Data manipulation and analysis
@@ -114,7 +104,6 @@ Each cancer type exhibits unique gene expression patterns, making classification
 - **matplotlib & seaborn** - Data visualization
 - **Jupyter Notebook** - Interactive development environment
 
----
 
 ## Installation & Usage
 
@@ -138,19 +127,6 @@ pip install -r requirements.txt
 ```bash
    jupyter notebook notebooks/cancer_analysis.ipynb
 ```
-
----
-
-## Future Improvements
-
-- [ ] Implement cross-validation for more robust performance estimates
-- [ ] Explore deep learning approaches (Neural Networks)
-- [ ] Perform biological validation of identified biomarker genes
-- [ ] Test on additional independent datasets for generalizability
-- [ ] Build a web interface for interactive cancer type prediction
-- [ ] Integrate with cancer pathway databases for biological interpretation
-
----
 
 ## What I Learned
 
