@@ -1,11 +1,6 @@
 # Cancer Gene Expression Classification
 
 A machine learning project that classifies 5 different cancer types based on gene expression data with **99.38% accuracy**.
-
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange.svg)](https://scikit-learn.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-
 ---
 
 ## Project Overview
